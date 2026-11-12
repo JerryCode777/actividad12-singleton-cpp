@@ -1,0 +1,6 @@
+singleton
+singleton.exe
+*.o
+.DS_Store
+.vscode/
+.idea/
